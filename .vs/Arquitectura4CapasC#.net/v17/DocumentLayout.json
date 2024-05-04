@@ -1,40 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\BryanC\\source\\repos\\ArquitecturaSoftware\\Arquitectura4CapasC#.net\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B1294E68-424C-48B3-8103-2C8F3428381E}|Arquitectura4CapasC#.net.csproj|c:\\users\\bryanc\\source\\repos\\arquitecturasoftware\\arquitectura4capasc#.net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B1294E68-424C-48B3-8103-2C8F3428381E}|Arquitectura4CapasC#.net.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\BryanC\\Desktop\\Arquitectura4CapasC#.net\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\BryanC\\source\\repos\\ArquitecturaSoftware\\Arquitectura4CapasC#.net\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\BryanC\\source\\repos\\ArquitecturaSoftware\\Arquitectura4CapasC#.net\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T20:26:05.485Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
