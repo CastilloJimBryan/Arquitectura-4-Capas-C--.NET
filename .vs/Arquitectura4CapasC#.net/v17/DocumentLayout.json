@@ -1,12 +1,78 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\BryanC\\Desktop\\Arquitectura4CapasC#.net\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F580A44C-1B3C-4D39-B300-B098500367F0}|Capa Entidades\\Capa Entidades.csproj|c:\\users\\bryanc\\desktop\\arquitectura4capasc#.net\\capa entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580A44C-1B3C-4D39-B300-B098500367F0}|Capa Entidades\\Capa Entidades.csproj|solutionrelative:capa entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F580A44C-1B3C-4D39-B300-B098500367F0}|Capa Entidades\\Capa Entidades.csproj|c:\\users\\bryanc\\desktop\\arquitectura4capasc#.net\\capa entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F580A44C-1B3C-4D39-B300-B098500367F0}|Capa Entidades\\Capa Entidades.csproj|solutionrelative:capa entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59C7E71-3A0E-4E90-9678-1D44DC8E4765}|Elementos de la soluci\u00F3n{C59C7E71-3A0E-4E90-9678-1D44DC8E4765}|C:\\Users\\BryanC\\Desktop\\Arquitectura4CapasC#.net\\BaseDatos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{C59C7E71-3A0E-4E90-9678-1D44DC8E4765}|Elementos de la soluci\u00F3n{C59C7E71-3A0E-4E90-9678-1D44DC8E4765}|solutionrelative:BaseDatos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59C7E71-3A0E-4E90-9678-1D44DC8E4765}|Elementos de la soluci\u00F3n{C59C7E71-3A0E-4E90-9678-1D44DC8E4765}|C:\\Users\\BryanC\\Desktop\\Arquitectura4CapasC#.net\\BaseDatos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{C59C7E71-3A0E-4E90-9678-1D44DC8E4765}|Elementos de la soluci\u00F3n{C59C7E71-3A0E-4E90-9678-1D44DC8E4765}|solutionrelative:BaseDatos.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\BryanC\\Desktop\\Arquitectura4CapasC#.net\\Capa Entidades\\Producto.cs",
+              "RelativeDocumentMoniker": "Capa Entidades\\Producto.cs",
+              "ToolTip": "C:\\Users\\BryanC\\Desktop\\Arquitectura4CapasC#.net\\Capa Entidades\\Producto.cs",
+              "RelativeToolTip": "Capa Entidades\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:53:43.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\BryanC\\Desktop\\Arquitectura4CapasC#.net\\Capa Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Capa Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\BryanC\\Desktop\\Arquitectura4CapasC#.net\\Capa Entidades\\Usuario.cs",
+              "RelativeToolTip": "Capa Entidades\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:52:33.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseDatos.sql ",
+              "DocumentMoniker": "C:\\Users\\BryanC\\Desktop\\Arquitectura4CapasC#.net\\BaseDatos.sql",
+              "RelativeDocumentMoniker": "BaseDatos.sql",
+              "ToolTip": "C:\\Users\\BryanC\\Desktop\\Arquitectura4CapasC#.net\\BaseDatos.sql",
+              "RelativeToolTip": "BaseDatos.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-04T21:36:14.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
